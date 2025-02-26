@@ -1,7 +1,30 @@
 export const alphabetData = [
-    { id: "A", letter: "A", image: "/assets/signs/A.png" },
-    { id: "B", letter: "B", image: "/assets/signs/B.png" },
-    { id: "C", letter: "C", image: "/assets/signs/C.png" },
-    // Add more alphabets and their corresponding sign images
-  ];
-  
+  { id: "A", letter: "A", image: "/assets/signs/A.png" },
+  { id: "B", letter: "B", image: "/assets/signs/B.png" },
+  { id: "C", letter: "C", image: "/assets/signs/C.png" },
+  { id: "D", letter: "D", image: "/assets/signs/D.png" },
+  { id: "E", letter: "E", image: "/assets/signs/E.png" },
+  { id: "F", letter: "F", image: "/assets/signs/F.png" },
+  { id: "G", letter: "G", image: "/assets/signs/G.png" },
+  { id: "H", letter: "H", image: "/assets/signs/H.png" },
+  { id: "I", letter: "I", image: "/assets/signs/I.png" },
+  { id: "J", letter: "J", image: "/assets/signs/J.png" },
+  { id: "K", letter: "K", image: "/assets/signs/K.png" },
+  { id: "L", letter: "L", image: "/assets/signs/L.png" },
+  { id: "M", letter: "M", image: "/assets/signs/M.png" },
+  { id: "N", letter: "N", image: "/assets/signs/N.png" },
+  { id: "O", letter: "O", image: "/assets/signs/O.png" },
+  { id: "P", letter: "P", image: "/assets/signs/P.png" },
+  { id: "Q", letter: "Q", image: "/assets/signs/Q.png" },
+  { id: "R", letter: "R", image: "/assets/signs/R.png" },
+  { id: "S", letter: "S", image: "/assets/signs/S.png" },
+  { id: "T", letter: "T", image: "/assets/signs/T.png" },
+  { id: "U", letter: "U", image: "/assets/signs/U.png" },
+  { id: "V", letter: "V", image: "/assets/signs/V.png" },
+  { id: "W", letter: "W", image: "/assets/signs/W.png" },
+  { id: "X", letter: "X", image: "/assets/signs/X.png" },
+  { id: "Y", letter: "Y", image: "/assets/signs/Y.png" },
+  { id: "Z", letter: "Z", image: "/assets/signs/Z.png" }
+];
+
+export default alphabetData;
