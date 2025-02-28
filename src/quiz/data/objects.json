@@ -1,0 +1,31 @@
+[
+  { "id": "A", "object": "Apple", "image": "/objects/apple.jpeg", "level": "Easy" },
+  { "id": "B", "object": "Ball", "image": "/objects/ball.png", "level": "Easy" },
+  { "id": "C", "object": "Cat", "image": "/objects/cat.png", "level": "Easy" },
+  { "id": "D", "object": "Dog", "image": "/objects/dog.png", "level": "Easy" },
+  { "id": "E", "object": "Elephant", "image": "/objects/elephant.png", "level": "Easy" },
+  { "id": "F", "object": "Fish", "image": "/objects/fish.png", "level": "Easy" },
+  
+  { "id": "G", "object": "Grapes", "image": "/objects/grapes.png", "level": "Medium" },
+  { "id": "H", "object": "Hat", "image": "/objects/hat.png", "level": "Medium" },
+  { "id": "I", "object": "Ice Cream", "image": "/objects/ice cream.png", "level": "Medium" },
+  { "id": "J", "object": "Jug", "image": "/objects/jug.png", "level": "Medium" },
+  { "id": "K", "object": "Koala", "image": "/objects/koala.avif", "level": "Medium" },
+  { "id": "L", "object": "Lion", "image": "/objects/lion.webp", "level": "Medium" },
+
+  { "id": "M", "object": "Mango", "image": "/objects/mango.png", "level": "Hard" },
+  { "id": "N", "object": "Nest", "image": "/objects/nest.png", "level": "Hard" },
+  { "id": "O", "object": "Orange", "image": "/objects/orange.png", "level": "Hard" },
+  { "id": "P", "object": "Parrot", "image": "/objects/parrot.png", "level": "Hard" },
+  { "id": "Q", "object": "Quokka", "image": "/objects/quokka.jpeg", "level": "Hard" },
+  { "id": "R", "object": "Rabbit", "image": "/objects/rabbit.png", "level": "Hard" },
+  
+  { "id": "S", "object": "Sun", "image": "/objects/sun.png", "level": "Easy" },
+  { "id": "T", "object": "Tree", "image": "/objects/tree.png", "level": "Medium" },
+  { "id": "U", "object": "Umbrella", "image": "/objects/umbrella.jpeg", "level": "Hard" },
+  { "id": "V", "object": "Violin", "image": "/objects/violin.png", "level": "Medium" },
+  { "id": "W", "object": "Watch", "image": "/objects/watch.jpeg", "level": "Easy" },
+  { "id": "X", "object": "Xylophone", "image": "/objects/Xylophone.png", "level": "Medium" },
+  { "id": "Y", "object": "Yacht", "image": "/objects/Yacht.jpeg", "level": "Hard" },
+  { "id": "Z", "object": "Zebra", "image": "/objects/zebra.jpeg", "level": "Medium" }
+]
